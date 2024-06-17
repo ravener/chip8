@@ -2,7 +2,7 @@
 
 A CHIP-8 emulator written in Go.
 
-![screenshot](https://cdn.discordapp.com/attachments/976862121784655933/1097170511051628644/invaders.gif)
+![screenshot](https://files.catbox.moe/h7h6lg.gif)
 
 ## Install
 
